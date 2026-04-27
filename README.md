@@ -114,17 +114,4 @@ When I'm not shipping, you'll find me exploring new coffee shops, filming conten
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryantayal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aryan's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantayal&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantayal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" height="180"/>
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — say hi at <a href="https://aryantayal.com">aryantayal.com</a> or on <a href="https://linkedin.com/in/aryantayal">LinkedIn</a>. ☕</i></p>
