@@ -17,6 +17,8 @@ I love working at the edge where product, customers, and engineering meet — tu
 
 I've spent my career shipping customer-facing features at scale, from enterprise integration prototypes to mobile apps and customer portals serving millions of daily users. I've built React and Angular front ends, AWS-backed services, and internal tools used by product teams to prioritize and ship faster.
 
+I'm always learning. Lately I've been deep in distributed systems, modern React patterns, and AI-assisted developer tooling. I like building side projects that scratch a real itch — small, useful things that I'd actually use myself.
+
 When I'm not shipping, you'll find me exploring new coffee shops, filming content, playing golf, running my business, and reading.
 
 ---
